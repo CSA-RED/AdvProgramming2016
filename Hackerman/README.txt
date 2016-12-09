@@ -1,0 +1,1 @@
+Using the entry box, input a single letter to guess for the password and hit submit. If the letter is in the password, it will show up; however, if it isn't, Joshua will take notice and tighten his security.
