@@ -2,4 +2,5 @@ Instructions:
 <UP> and <DOWN> = move your ship
 <SPACE> = fire your laser
 
-Your goal is to shoot down as many asteroids as you're able to! Every asteroid you shoot is +100 points, but every asteroid that gets past you is -100 points. Aim for a high score!
+Your goal is to shoot down as many asteroids as you're able to!
+Every asteroid you shoot is +100 points, but every asteroid that gets past you is -100 points. Aim for a high score!
